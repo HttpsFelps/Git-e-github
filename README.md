@@ -7,7 +7,7 @@ Repositório para armazenar resumos de GIT e GITHUB da plataforma de ensino [DIO
 - [Documentação GIT](https://git-scm.com/docs)
 - [documentação GITHUB](https://docs.github.com/)
 
-## 🖥 Comandos do GIT
+## 💻 Comandos do GIT
 
 | Comando </>| Para que serve 🔍|
 |---------|----------------|
